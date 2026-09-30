@@ -7,9 +7,9 @@
 * **I played:** I have ben playing this game for a long time but for this particular assignment I played it for about 40 mins
 
 <p>
-<img src="Docs/game1/1.png" width="240">
-<img src="Docs/game1/2.png" width="240">
-<img src="Docs/game1/3.png" width="240">
+<img src="DOCS/game1/1.png" width="240">
+<img src="DOCS/game1/2.png" width="240">
+<img src="DOCS/game1/3.png" width="240">
 </p>
 
 1. **[M1, M3]** · Shows cue power and angle adjustment before taking a shot.
@@ -37,17 +37,17 @@
 
 * **Store link:** https://play.google.com/store/apps/details?id=com.halfbrick.jetpackjoyride
 * **Genre:** Action / Endless Runner
-* **I played:** This game is one of my childhood memories I used to lay it a lot with my cousin on my tab. For this particular assignment I played it for more then an hour due to the nostalgia as I forgot while playibng the game that I was doing my assignment
+* **I played:** This game is one of my childhood memories I used to lay it a lot with my cousin on my tab. For this particular assignment I played it for more then an hour due to the nostalgia as I forgot while playing the game that I was doing my assignment
 
 <p>
-<img src="Docs/game2/1.png" width="240">
-<img src="Docs/game2/2.png" width="240">
-<img src="Docs/game2/3.png" width="240">
+<img src="DOCS/game2/image3_gravity.png" width="240">
+<img src="DOCS/game2/image2_jetpack.png" width="240">
+<img src="DOCS/game2/image1_gadget.png" width="240">
 </p>
 
 1. **[M1, M2]** · Shows jetpack activation and the character's vertical movement under gravity.
-2. **[M3, M4]** · Shows coin collection while avoiding obstacles, lasers and missiles.
-3. **[M5, M6, M7]** · Shows the vast amount of gadgets you can buy after progressing in the game
+2. **[M3]** · Shows coin collection..
+3. **[M7]** · Shows the vast amount of gadgets you can buy after progressing in the game
 
 | #  | Mechanic                                                                                                                           | Dynamic                                                                                                             | Aesthetic                                                                                                                | Bartle type  |
 | -- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------ |
