@@ -7,9 +7,9 @@
 * **I played:** I have ben playing this game for a long time but for this particular assignment I played it for about 40 mins
 
 <p>
-<img src="DOCS/game1/1.png" width="240">
-<img src="DOCS/game1/2.png" width="240">
-<img src="DOCS/game1/3.png" width="240">
+<img src="DOCS/game1/1.jpeg" width="240">
+<img src="DOCS/game1/2.jpeg" width="240">
+<img src="DOCS/game1/3.jpeg" width="240">
 </p>
 
 1. **[M1, M3]** · Shows cue power and angle adjustment before taking a shot.
@@ -40,9 +40,9 @@
 * **I played:** This game is one of my childhood memories I used to lay it a lot with my cousin on my tab. For this particular assignment I played it for more then an hour due to the nostalgia as I forgot while playing the game that I was doing my assignment
 
 <p>
-<img src="DOCS/game2/image3_gravity.png" width="240">
-<img src="DOCS/game2/image2_jetpack.png" width="240">
-<img src="DOCS/game2/image1_gadget.png" width="240">
+<img src="DOCS/game2/image3_gravity.jpeg" width="240">
+<img src="DOCS/game2/image2_jetpack.jpeg" width="240">
+<img src="DOCS/game2/image1_gadget.jpeg" width="240">
 </p>
 
 1. **[M1, M2]** · Shows jetpack activation and the character's vertical movement under gravity.
