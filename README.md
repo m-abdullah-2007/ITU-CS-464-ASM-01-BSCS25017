@@ -1,4 +1,4 @@
-# CS464 Assignment 01 · [Your name] · [Roll no]
+# CS464 Assignment 01 · Muhammad Abdullah ·  BSCS25017
 
 ## Game 1 · 8 Ball Pool
 
@@ -65,3 +65,28 @@
 
 * **Primary: Achiever** (**Acting × World**), because players perform actions in the game world to accomplish measurable goals such as collecting coins, surviving longer, increasing their distance and obtaining rewards (M1–M7).
 * **Secondary: Explorer** (**Interacting × World**), because players encounter and collect different items, discover machine parts and experiment with different gadgets and gameplay options (M5, M7).
+
+
+# 🎮 Proposed Game Blockouts
+
+### 1. Tilt Maze Ball
+
+A physics-based maze where the player tilts a platform to guide a ball through obstacles toward the goal.
+
+<img src="DOCS/Level_BlockOuts/3.png" width="240">
+
+---
+
+### 2. FPS Training Arena
+
+A first-person shooting arena designed for target practice, movement, cover, and obstacle-based training.
+
+<img src="DOCS/Level_BlockOuts/2.png" width="240">
+
+---
+
+### 3. Rooftop Parkour × Endless Runner
+
+A fast-paced rooftop parkour game where the player continuously runs across buildings, jumping gaps and avoiding obstacles.
+
+<img src="DOCS/Level_BlockOuts/1.png" width="240">
